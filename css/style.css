@@ -124,6 +124,11 @@ a:focus, a:hover {
 	font-weight: 700;
 }
 
+.keep-touch-social{
+	text-align: center;
+    padding-bottom: 25px;
+}
+
 .banner p {
 	position: absolute;
 	top: 49%;
@@ -135,7 +140,7 @@ a:focus, a:hover {
 
 .banner a.browse {
 	position: absolute;
-	top: 55%;
+	top: 62%;
 	left: 5.5%;
 	padding: 10px 40px;
 	background-color: #333;
@@ -892,6 +897,7 @@ p.stats-p {
 	font-weight: 600;
 	color: #EF4C89;
 	font-size: 35px;
+	padding-bottom: 25px;
 }
 
 .footer h5 {
@@ -933,6 +939,12 @@ address {
 	font-weight: bold;
 	margin-right: 5px;
 	color: #FF166D;
+}
+
+.about-us-name{
+	font-size: 20px;
+    text-align: center;
+    color: black !important;
 }
 
 .email a {
@@ -1097,7 +1109,7 @@ address {
 	text-align: left;
 	font-weight: 600;
 	color: #EF4C89;
-	font-size: 40px;
+	font-size: 38px;
 	margin-bottom: 30px;
 }
 
